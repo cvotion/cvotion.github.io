@@ -1,0 +1,38 @@
+*{
+    font-family: 'Comic Neue', cursive;
+}
+body{ 
+    background-color: rgb(58, 105, 58);
+    text-align: center;
+}
+
+.Summer>img{
+    width: 200px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+ul{
+    list-style: none;
+}
+
+.about-image {
+    width: 500px;
+}
+.craft{
+    width: 400px;
+}
+.union{
+    width: 500px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+img{
+    border: 2px solid black;
+}
